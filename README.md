@@ -53,10 +53,8 @@ The Snake Game was designed as a fun and educational project to demonstrate esse
 
 - Start the local Python server by running:
 
-  ``bash
+ ```bash
 python -m http.server 8000
-``
-
 
 - Open your web browser and navigate to:
 
