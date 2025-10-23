@@ -5,9 +5,9 @@ This project is an interactive implementation of the classic Snake game, develop
 “Fostering the Transversal Digital Competences in Higher Education” (Acronym: FTDCHE)
 Ref. Project: 2022-1-ES01-KA220-HED-000089861
 
-## 📘 Project Leader: University of Malaga (Spain)
-## 🤝 Partners: National University of Science and Technology Politehnica Bucharest (UNSTPB, Romania),
-University of Primorska (Slovenia), and UCLL University of Applied Sciences (Belgium)
+### 📘 Project Leader: University of Malaga (Spain)
+### 🤝 Partners: National University of Science and Technology Politehnica Bucharest (UNSTPB, Romania),
+### University of Primorska (Slovenia), and UCLL University of Applied Sciences (Belgium)
 
 ## 🎯 Project Purpose
 
