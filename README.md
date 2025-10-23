@@ -55,6 +55,7 @@ The Snake Game was designed as a fun and educational project to demonstrate esse
 
  ```bash
 python -m http.server 8000
+```
 
 - Open your web browser and navigate to:
 
