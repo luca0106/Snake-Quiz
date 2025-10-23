@@ -27,41 +27,41 @@ The Snake Game was designed as a fun and educational project to demonstrate esse
 
 ## 🚀 Main Features
 
-Smooth, real-time snake movement
+- Smooth, real-time snake movement
 
-Random food generation and snake growth
+- Random food generation and snake growth
 
-Score and lives tracking
+- Score and lives tracking
 
-Automatic reset and game-over logic
+- Automatic reset and game-over logic
 
-Modern neon-style interface
+- Modern neon-style interface
 
 ## 💡 Educational Objectives
 
-Strengthen understanding of front-end web technologies
+- Strengthen understanding of front-end web technologies
 
-Apply canvas-based graphics and event-driven programming
+- Apply canvas-based graphics and event-driven programming
 
-Practice algorithmic thinking and interactive design
+- Practice algorithmic thinking and interactive design
 
-Encourage creativity in user interface development
+- Encourage creativity in user interface development
 
 ## 🧠 How to Run the Game
 
-Open a terminal in the game folder.
+- Open a terminal in the game folder.
 
-Start the local Python server by running:
+- Start the local Python server by running:
 
-python -m http.server 8000
+  python -m http.server 8000
 
 
-Open your web browser and navigate to:
+- Open your web browser and navigate to:
 
 http://localhost:8000/index.html
 
 
-The game will load in your browser and can be played directly from the local server.
+- The game will load in your browser and can be played directly from the local server.
 
 ## ✨ Author
 
