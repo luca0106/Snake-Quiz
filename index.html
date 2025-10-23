@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+  <html lang="en">
+    <head>
+      <meta charset="UTF-8" />
+      <title>Snake Quiz Game</title>
+      <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500&display=swap" rel="stylesheet">
+      <link rel="stylesheet" href="styles.css">
+      <link rel="icon" type="image/png" sizes="32x32" href="Pics/favicon.ico">
+    </head>
+
+    <body>
+
+      <audio id="correctSound" src="Sounds/correct.mp3" preload="auto"></audio>
+      <audio id="wrongSound" src="Sounds/wrong.mp3" preload="auto"></audio>
+      <audio id="gameOverSound" src="Sounds/gameover.mp3" preload="auto"></audio>
+
+      <div id="overlay">
+        <div>
+          <button id="startBtn">Start Game</button>
+          <button id="retryBtn" style="display:none;">Try Again</button>
+        </div>
+      </div>
+
+      <div id="gameContainer">
+        <h1>Snake Quiz Game</h1>
+        <canvas id="gameCanvas" width="600" height="300"></canvas>
+        <div id="infoPanel">
+          <div id="scoreLives">🧠 Score: 0 | ❤️ Lives: 3</div>
+          <div id="questionArea"></div>
+          <div id="message"></div>
+        </div>
+      </div>
+
+      <script src="snake_game.js"></script>
+
+    </body>
+</html>
